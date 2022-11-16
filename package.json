@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "reto1": "node ./reto01/index.js"
+    "reto1": "node ./reto01/index.js",
+    "reto2": "node ./reto02/index.js"
   },
   "keywords": [],
   "author": "",
