@@ -1,7 +1,3 @@
-<div align="center">
-![Codember](./img/codember.PNG)
-</div>
-
 ## 💻[codember](https://codember.dev)
 
 Este proyecto tiene como finalidad realizar los retos que se vallan liberando en la página [Codember](https://codember.dev/), la cuál es un reto de programación lanzado y creado por midudev.
