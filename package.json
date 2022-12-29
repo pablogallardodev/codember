@@ -8,7 +8,8 @@
     "reto2": "node ./reto02/index.js",
     "reto3": "node ./reto03/index.js",
     "reto4": "node ./reto04/index.js",
-    "reto5": "node ./reto05/index.js"
+    "reto5": "node ./reto05/index.js",
+    "adv": "node ./adventJS/index.js"
   },
   "keywords": [],
   "author": "",
